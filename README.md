@@ -26,8 +26,8 @@ It includes **EDA**, **feature encoding**, **train/test splitting**, **scaling**
 - `final_code.ipynb` — main notebook with EDA → preprocessing → modelling
 - `assign1-grades.csv` — input dataset (expected in the project root)
 
-## How to run
-1. Install Python 3.10+ and dependencies:
+## How to Run
+1. **Clone or download the project**  
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
-
+   git clone https://github.com/your-username/student-grade-prediction.git
+   cd student-grade-prediction
